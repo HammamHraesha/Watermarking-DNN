@@ -1,4 +1,4 @@
-# Watermarking-DNN
+# Watermarking-Deep-Neural-Networks
 Watermarking Deep Neural Networks by Backdoor
 
 
